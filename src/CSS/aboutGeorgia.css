@@ -1,0 +1,49 @@
+.about-georgia {
+  display: grid;
+  grid-template-columns: 50% 40%;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  padding-right: 20px;
+}
+
+.toasting {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  justify-content: space-between;
+  padding-bottom: 70px;
+  padding-left: 50px;
+}
+
+img {
+  height: 400px;
+  width: 450px;
+}
+
+.main-container {
+  background-color: lightyellow;
+}
+
+.leaf {
+  height: 100px;
+  width: 100px;
+  transform: rotate(-45deg);
+  padding-top: 20px;
+}
+.last-blog {
+  display: grid;
+  grid-template-columns: 50% 5% 30% 5%;
+  justify-content: space-between;
+  padding-bottom: 70px;
+  padding-left: 50px;
+}
+
+.leaf2 {
+  height: 50px;
+  width: 50px;
+  transform: rotate(-180deg);
+}
+.leaf3 {
+  height: 80px;
+  width: 80px;
+  transform: rotate(100deg);
+}

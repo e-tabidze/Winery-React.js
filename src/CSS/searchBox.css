@@ -1,0 +1,17 @@
+.searchBox {
+  width: 200px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+  border: none;
+  border-bottom: thick;
+  border-bottom: yellowgreen;
+}
+
+.searchInput {
+  width: 270px;
+  height: 50px;
+  border: none;
+  text-decoration: underline;
+  text-decoration: italic;
+  background-color: lightyellow;
+}

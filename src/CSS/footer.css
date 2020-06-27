@@ -1,0 +1,57 @@
+.footer-container {
+  display: grid;
+  grid-template-columns: 15% 70%;
+  /* justify-content: space-around; */
+  height: 300px;
+  background-color: rgb(238, 237, 237);
+  bottom: 0;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  margin-right: 40px;
+}
+
+p {
+  justify-content: center;
+  padding-left: 100px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+
+h1 {
+  text-emphasis-color: rgb(168, 105, 168);
+  padding-left: 100px;
+  font-stretch: expanded;
+}
+
+.grapes1 {
+  height: 200px;
+  width: 200px;
+}
+
+.menu {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: lightgray;
+  border-radius: 25px;
+}
+
+ul {
+  margin-top: 15px;
+  list-style-type: none;
+  margin: 15px;
+  margin-bottom: 15px;
+}
+
+li {
+  margin: 10px;
+}
+
+.footerimage {
+  display: 100%;
+  height: 200px;
+  width: 200px;
+}

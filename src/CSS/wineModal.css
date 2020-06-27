@@ -1,0 +1,41 @@
+.wineForm {
+  display: none;
+  flex-direction: column;
+  height: 600px;
+  width: 1000px;
+  position: fixed;
+  align-items: center;
+  left: calc(50% - 500px);
+  bottom: calc(50% - 300px);
+  background-color: white;
+  border-radius: 25px;
+  border: 1px solid black;
+  z-index: 10;
+}
+
+.wineForm-active {
+  display: flex;
+}
+.modalContent {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-content: space-between;
+}
+
+.modalImage {
+  display: 100%;
+}
+
+.wineForm > button {
+  background: none;
+  border: none;
+}
+
+.wineForm > button:hover {
+  cursor: pointer;
+}
+
+.modalImage {
+  height: 600px;
+  width: 100px;
+}
