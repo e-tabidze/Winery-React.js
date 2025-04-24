@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1",
     "react-google-font-loader": "^1.1.0",
     "react-newline-to-break": "^1.0.6",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.4.1"
   },
   "scripts": {
